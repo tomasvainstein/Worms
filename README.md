@@ -3,8 +3,6 @@ Trabajo Práctico de la materia Taller de Programación I - Cátedra Veiga
 
 [Video demostración](https://www.youtube.com/watch?v=GZH_X5anJps)
 
-[![](https://markdown-videos.deta.dev/youtube/GZH_X5anJps)](https://youtu.be/GZH_X5anJps)
-
 ## Documentacion
 
 [Manual de Usuario](https://github.com/Cbravor1991/Whorms/blob/main/Documentacion/ManualDeUsusario.md)
